@@ -36,7 +36,7 @@ dask==0.15.3
 datashape==0.5.4
 decorator==4.1.2
 distributed==1.19.1
-Django==1.11.9
+Django==2.2.24
 django-crispy-forms==1.7.0
 docutils==0.14
 entrypoints==0.2.3
